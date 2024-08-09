@@ -1,0 +1,16 @@
+.ungu {
+    background-color: #6f42c1;
+    color: white;
+}
+
+.logo {
+    height: 40px;
+}
+
+.bg-kuning {
+    background-color: #ddd39b;
+}
+
+.efek-kelabu {
+    filter: grayscale(50%);
+}
